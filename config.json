@@ -6,7 +6,10 @@
       "name": "味精秒播",
       "detail": "https://heimuer.tv"
     },
- 
+  "zy360": {
+      "api": "http://www.qilinzyz.com/api.php/provide/vod/",
+      "name": "味精官采"
+    },
     "ffzy": {
       "api": "http://ffzy5.tv/api.php/provide/vod",
       "name": "味精测试",
