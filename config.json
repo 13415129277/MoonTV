@@ -9,18 +9,18 @@
  
     "ffzy": {
       "api": "http://ffzy5.tv/api.php/provide/vod",
-      "name": "非凡影视",
+      "name": "味精测试",
       "detail": "http://ffzy5.tv"
     },
     "zy360": {
       "api": "https://360zy.com/api.php/provide/vod",
-      "name": "360资源"
+      "name": "味精资源"
     },
    
 
     "wwzy": {
-      "api": "https://wwzy.tv/api.php/provide/vod",
-      "name": "旺旺短剧"
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "name": "味精高清"
     }
   }
 }
