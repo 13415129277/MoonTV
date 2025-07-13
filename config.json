@@ -7,7 +7,7 @@
       "detail": "https://heimuer.tv"
     },
   "zy360": {
-      "api": "https://cj.huohua.live/api.php/provide/vod",
+      "api": "http://js.wuyanzu.xyz:7070/cj/WS4k.php",
       "name": "味精官采"
     },
     "ffzy": {
