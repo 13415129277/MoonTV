@@ -3,27 +3,27 @@
   "api_site": {
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "name": "味精秒播",
+      "name": "测试1",
       "detail": "https://heimuer.tv"
     },
   "zy360": {
-      "api": "https://skappapi.ideasz.net/sk-api/vod",
-      "name": "sk"
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "name": "测试2"
     },
     "ffzy": {
       "api": "http://ffzy5.tv/api.php/provide/vod",
-      "name": "味精测试",
+      "name": "测试3",
       "detail": "http://ffzy5.tv"
     },
     "zy360": {
       "api": "https://360zy.com/api.php/provide/vod",
-      "name": "味精资源"
+      "name": "测试4"
     },
    
 
     "wwzy": {
-      "api": "https://cj.lziapi.com/api.php/provide/vod/",
-      "name": "味精高清"
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "name": "测试5"
     }
   }
 }
