@@ -8,7 +8,7 @@
     },
   "zy360": {
       "api": "https://skappapi.ideasz.net/sk-api/vod",
-      "name": "味精官采"
+      "name": "sk"
     },
     "ffzy": {
       "api": "http://ffzy5.tv/api.php/provide/vod",
