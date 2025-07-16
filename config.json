@@ -7,7 +7,7 @@
       "detail": "https://heimuer.tv"
     },
   "zy360": {
-      "api": "http://js.wuyanzu.xyz:7070/cj/WS4k.php",
+      "api": "https://skappapi.ideasz.net/sk-api/vod",
       "name": "味精官采"
     },
     "ffzy": {
