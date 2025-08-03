@@ -15,6 +15,10 @@
       "name": "测试3",
       "detail": "http://ffzy5.tv"
     },
+"dytt": {
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "name": "独家"
+    },
     "zy360": {
       "api": "https://360zy.com/api.php/provide/vod",
       "name": "测试4"
