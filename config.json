@@ -19,8 +19,10 @@
       "api": "https://360zy.com/api.php/provide/vod",
       "name": "测试4"
     },
-   
-
+"cj": {
+      "api": "http://124.223.108.57/api.php/provide/vod",
+      "name": "自营"
+    },
     "wwzy": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "测试5"
